@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.app-bar__items {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
